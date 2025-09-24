@@ -1,0 +1,4 @@
+name: youveBeenTrolled
+version: '1.0'
+main: lv.smil.youveBeenTrolled.YouveBeenTrolled
+api-version: '1.21'
