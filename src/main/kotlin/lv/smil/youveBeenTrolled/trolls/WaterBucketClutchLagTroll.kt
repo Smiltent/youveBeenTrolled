@@ -3,11 +3,9 @@ package lv.smil.youveBeenTrolled.trolls
 import lv.smil.youveBeenTrolled.managers.TrollInterface
 import org.bukkit.plugin.java.JavaPlugin
 
-class ReversedDiamondsTroll(private val plugin: JavaPlugin): TrollInterface {
+class WaterBucketClutchLagTroll(private val plugin: JavaPlugin): TrollInterface {
 
-//    when diamond ore/diamond blocks are mined, they turn into coal
-//    same the other way around
-//    the "coal" will still work as diamonds, and the "diamonds" will still work as coal
+//    detect when the player is falling, when they clutch (place water), wait 1 second and kill them
 
     override fun enable() {
         TODO("Not yet implemented")

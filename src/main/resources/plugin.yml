@@ -2,3 +2,5 @@ name: youveBeenTrolled
 version: '1.0'
 main: lv.smil.youveBeenTrolled.YouveBeenTrolled
 api-version: '1.21'
+libraries:
+  - dev.jorel:commandapi-bukkit-shade-mojang-mapped:10.1.2
